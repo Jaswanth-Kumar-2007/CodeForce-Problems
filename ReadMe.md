@@ -2,6 +2,8 @@
 
 ## CodeForces Username - [jaswanthkumarkamireddi](https://codeforces.com/profile/jaswanthkumarkamireddi)
 
+## Problems
+
 - [A-Watermelon](A_Watermelon.cpp)
 - [B-Queue_at_the_School](B_Queue_at_the_School.cpp)
 - [A-Team](A_Team.cpp)
@@ -24,3 +26,10 @@
 - [A-Next_Round](A_Next_Round.cpp)
 - [A-Petya_and_Strings](A_Petya_and_Strings.cpp)
 - [A-Helpful_Maths](A_Helpful_Maths.cpp)
+- [A-Word_Capitalization](A_Word_Capitalization.cpp)
+- [A-Bear_and_Big_Brother](A_Bear_and_Big_Brother.cpp)
+- [A-Stones_on_the_Table](A_Stones_on_the_Table.cpp)
+- [A-Solider_and_Bananas](A_Soldier_and_Bananas.cpp)
+- [A-Word](A_Word.cpp)
+- [A-Wrong_Subtraction](A_Wrong_Subtraction.cpp)
+- [A-Nearly_Lucky_Number](A_Nearly_Lucky_Number.cpp)
