@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int n;
+    cin >> n;
+    string res = "";
+    int j = 0;
+    for (int i = 0;i < n;i++){
+        if (i % 2 == 0){
+            res += "I hate";
+        }else{
+            res += "I love";
+        }
+        if (j < n-1){
+            res += " that ";
+        }
+        j++;
+    }
+    res += " it";
+    cout << res;
+}

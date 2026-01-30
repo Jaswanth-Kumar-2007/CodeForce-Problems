@@ -39,3 +39,13 @@
 - [A-Pangram](A_Pangram.cpp)
 - [A-In_Search_of_an_Easy_Problem](A_In_Search_of_an_Easy_Problem.cpp)
 - [A-George_and_Accomadation](A_George_and_Accommodation.cpp)
+
+### Dt: 30-01-2026
+
+- [A-Calculating_Function](A_Calculating_Function.cpp)
+- [A-Magnets](A_Magnets.cpp)
+- [B-Drinks](B_Drinks.cpp)
+- [A-Ultra_Fast_Mathematician](A_Ultra_Fast_Mathematician.cpp)
+- [A-Hulk](A_Hulk.cpp)
+- [A-I_Wanna_Be_The_Guy](A_I_Wanna_Be_the_Guy.cpp)
+- [A-Hit_the_Lottery](A_Hit_the_Lottery.cpp)
