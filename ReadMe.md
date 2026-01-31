@@ -55,3 +55,8 @@
 - [A-Expression](A_Expression.cpp)
 - [A-Anton_and_Polyhedron](A_Anton_and_Polyhedrons.cpp)
 - [C-Registartion_System](C_Registration_system.cpp)
+- [A-Candies_and_two_sister](A_Candies_and_Two_Sisters.cpp)
+- [A-Sum](A_Sum.cpp)
+- [A-The_New_Year_Meeting_Friends](A_The_New_Year_Meeting_Friends.cpp)
+- [A-Yes_or_Yes?](A_YES_or_YES.cpp)
+- [A-Soft_Drinking](A_Soft_Drinking.cpp)
