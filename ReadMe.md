@@ -49,3 +49,9 @@
 - [A-Hulk](A_Hulk.cpp)
 - [A-I_Wanna_Be_The_Guy](A_I_Wanna_Be_the_Guy.cpp)
 - [A-Hit_the_Lottery](A_Hit_the_Lottery.cpp)
+
+### Dt: 31-01-2026
+
+- [A-Expression](A_Expression.cpp)
+- [A-Anton_and_Polyhedron](A_Anton_and_Polyhedrons.cpp)
+- [C-Registartion_System](C_Registration_system.cpp)
