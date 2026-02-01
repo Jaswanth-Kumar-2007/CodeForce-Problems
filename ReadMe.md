@@ -60,3 +60,9 @@
 - [A-The_New_Year_Meeting_Friends](A_The_New_Year_Meeting_Friends.cpp)
 - [A-Yes_or_Yes?](A_YES_or_YES.cpp)
 - [A-Soft_Drinking](A_Soft_Drinking.cpp)
+
+### Dt: 01-02-2026
+
+- [A-Domino_Pilling](A_Domino_piling.cpp)
+- [A-Rock_Paper_Scissor](A_Rock_paper_scissors.cpp)
+- [A-Multiplication_Table](A_Multiplication_Table.cpp)
